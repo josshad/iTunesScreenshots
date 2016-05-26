@@ -7,7 +7,9 @@ Photoshop Script for generating screenshots for **iTunes Connect** for iphones 4
 - Go to **File -> Scripts -> Browse** 
 - Select **iTunesScreenshots.jsx** or **iTunesScreenshots_resolution.jsx**
 
-Screenshots would be generated in *\<path to psd\>/out/\<layer name\>/iPhone_x.jpg* for **iTunesScreenshots.jsx** and in *\<path to psd\>/out/iPhone_x/\<layer name>.jpg* for **iTunesScreenshots_resolution.jsx**.
+Screenshots would be generated in 
+- *\<path to psd\>/out/\<layer name\>/iPhone_x.jpg* for **iTunesScreenshots.jsx** 
+- *\<path to psd\>/out/iPhone_x/\<layer name>.jpg* for **iTunesScreenshots_resolution.jsx**.
 
 ##Author
 Danila Gusev
